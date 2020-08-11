@@ -7,7 +7,7 @@
 ## I'm a passionate self-taught web and mobile application developer from India.
 - 🔭 I’m currently working on [BloggyPanda](https://github.com/AshutoshPatole/bloggy-panda.git)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on [FlutterUI]https://github.com/AshutoshPatole/FlutterUI.git).
+- 👯 I’m looking to collaborate on [FlutterUI](https://github.com/AshutoshPatole/FlutterUI.git).
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/AshutoshPatole/ashutoshpatole/issues)
 - ⚡ Fun fact: I love to read other's code.
@@ -30,9 +30,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="DART" width="26px" src="https://avatars0.githubusercontent.com/u/1609975?s=280&v=4" />][linkedin]
-[<img align="left" alt="DART" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6nMQjQ4vAjmu2BQqyV98LGz3BRc1ilzVMnw&usqp=CAU" />][instagaram]
 
-[<img align="left" alt="DART" width="26px" src="https://www.onlogic.com/company/io-hub/wp-content/uploads/2009/01/Read-only-Linux.jpg"/>][instagaram]
+[<img align="left" alt="gcp" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6nMQjQ4vAjmu2BQqyV98LGz3BRc1ilzVMnw&usqp=CAU" />][linkedin]
+[<img align="left" alt="linux" width="26px" src="https://www.onlogic.com/company/io-hub/wp-content/uploads/2009/01/Read-only-Linux.jpg" />][linkedin]
+
 
 
 <br />
