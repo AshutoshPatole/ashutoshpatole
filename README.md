@@ -31,8 +31,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="DART" width="26px" src="https://avatars0.githubusercontent.com/u/1609975?s=280&v=4" />][linkedin]
 
-[<img align="left" alt="gcp" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6nMQjQ4vAjmu2BQqyV98LGz3BRc1ilzVMnw&usqp=CAU" />][linkedin]
-[<img align="left" alt="linux" width="26px" src="https://www.onlogic.com/company/io-hub/wp-content/uploads/2009/01/Read-only-Linux.jpg" />][linkedin]
+[<img align="left" alt="gcp" width="26px" src="https://www.pinpng.com/pngs/m/61-610992_gcp-logo-cloud-google-cloud-logo-svg-hd.png" />][linkedin]
+[<img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][linkedin]
 
 
 
