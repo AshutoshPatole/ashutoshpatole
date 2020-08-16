@@ -6,7 +6,7 @@
 <br /><br />
 ## I'm a passionate self-taught web and mobile application developer from India.
 - 🔭 I’m currently working on [BloggyPanda](https://github.com/AshutoshPatole/bloggy-panda.git)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning System architecture and cloud computing
 - 👯 I’m looking to collaborate on [FlutterUI](https://github.com/AshutoshPatole/FlutterUI.git).
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/AshutoshPatole/ashutoshpatole/issues)
