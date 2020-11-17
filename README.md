@@ -34,7 +34,7 @@
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][linkedin]
 [<img align="left" alt="DART" width="26px" src="https://avatars0.githubusercontent.com/u/1609975?s=280&v=4" />][linkedin]
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
-[<img align="left" alt="gcp" width="26px" src="https://www.pinpng.com/pngs/m/61-610992_gcp-logo-cloud-google-cloud-logo-svg-hd.png" />][linkedin]
+[<img align="left" alt="gcp" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />][linkedin]
 [<img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][linkedin]
 
 
