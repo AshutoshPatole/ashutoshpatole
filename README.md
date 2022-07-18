@@ -39,7 +39,8 @@
 
 ---
 
-<img align="left" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshPatole&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&count_private=true" />
+
+<img align="left" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshPatole&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 
 <img align="left" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPatole&layout=compact&theme=radical" /> <br>
 
