@@ -8,11 +8,9 @@
     
 </p>
 
-<br /><br />
-## I'm a passionate self-taught web and mobile application developer from India.
 - 🔭 I’m currently working on Nothing 😜
-- 🌱 I’m currently learning Azure, Arch and Rocky Linux.
-- 🥅 2022 Goals: Reading linux system files.
+- 🌱 I’m currently learning Golang.
+- 🥅 2023 Goals: Creating more automation for my workflow.
 - 💬 Ask me about anything [here](https://github.com/AshutoshPatole/ashutoshpatole/issues)
 - ⚡ Fun fact: I love to read other's code.
 
