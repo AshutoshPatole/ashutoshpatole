@@ -8,9 +8,9 @@
     
 </p>
 
-- 🔭 I’m currently working on Nothing 😜
-- 🌱 I’m currently learning Golang.
-- 🥅 2023 Goals: Creating more automation for my workflow.
+- 🔭 I’m currently working on [tiffino](https://tiffino.party)
+- 🌱 I’m currently learning how to market the apps I build.
+- 🥅 2027 Goals: Learn MLOps and AIOps.
 - 💬 Ask me about anything [here](https://github.com/AshutoshPatole/ashutoshpatole/issues)
 - ⚡ Fun fact: I love to read other's code.
 
